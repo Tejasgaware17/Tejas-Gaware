@@ -62,10 +62,9 @@ I'm an aspiring full-stack developer focused on building clean, scalable, and re
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/tejas-gaware/
-* **Twitter:** https://x.com/TejasGawar81986
-* **Email:** tejasgaware9403@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tejas-gaware/)  |  [Twitter](https://x.com/TejasGawar81986)  |  [Email](mailto:tejasgaware9403@gmail.com)
 
 ---
 
 Thanks for visiting my profile! I'm always open to collaborations, learning opportunities, and feedback. 🚀
+
