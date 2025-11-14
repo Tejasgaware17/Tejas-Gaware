@@ -24,7 +24,6 @@ I'm an aspiring full-stack developer focused on building clean, scalable, and re
 **Databases:**
 
 * MongoDB
-* MySql
 
 **Tools & Platforms:**
 
@@ -36,7 +35,7 @@ I'm an aspiring full-stack developer focused on building clean, scalable, and re
 * Bootstrap CSS framework
 * Python & Django
 * Java & Spring Boot
-* Databases: MySQL
+* MySQL Databases
 
 ---
 
@@ -67,4 +66,5 @@ I'm an aspiring full-stack developer focused on building clean, scalable, and re
 ---
 
 Thanks for visiting my profile! I'm always open to collaborations, learning opportunities, and feedback. 🚀
+
 
